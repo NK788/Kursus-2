@@ -1,0 +1,7 @@
+]0;~/Desktop/Kursus 2[?1034hdrs-iMac:Kursus 2 DPK$ [Kdrs-iMac:Kursus 2 DPK$ cd ~/dir/name/of/path/to/file
+bash: cd: /Users/Yoyo/dir/name/of/path/to/file: No such file or directory
+]0;~/Desktop/Kursus 2drs-iMac:Kursus 2 DPK$ cd ~/desktop/Kurus[K[Ksus 2/
+bash: cd: /Users/Yoyo/desktop/Kursus: No such file or directory
+]0;~/Desktop/Kursus 2[?1034hdrs-iMac:Kursus 2 DPK$ git init
+Initialized empty Git repository in /Users/Yoyo/Desktop/Kursus 2/.git/
+]0;~/Desktop/Kursus 2drs-iMac:Kursus 2 DPK$ git add .
